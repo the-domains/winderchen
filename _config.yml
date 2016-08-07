@@ -1,29 +1,41 @@
-name: Winder Chen
-favicon: null
-layout_spectrum: 0.93856
-typography_spectrum: 0.56826
 title: Winder's Grid
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5806451
+  brandStrength: 0.3879760038107634
+  lightness: 0.2168459
+  brandColors:
+    - '#F7C42B'
+    - '#FAFCB0'
+    - '#073130'
+    - '#994634'
+    - '#97D1A7'
+  rhythmicContrast: 0.5913978
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Winder Chen
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#312926'
-    - '#ce6e3b'
-    - '#ff3b3b'
-    - '#ffb686'
-  brandStrength: 0.38797600381076336
-  lightness: 0.21118401270359755
-  saturation: 0.4375
-  rhythmicContrast: 0.29214443266391754
-purpose: []
+typography_spectrum: 0.3387097
+layout_spectrum: 0.2777778
