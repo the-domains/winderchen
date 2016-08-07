@@ -4,7 +4,7 @@
         <description><![CDATA[Winder's Grid]]></description>
         <link>https://thegrid.ai/winderchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 10:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 11:00:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/winderchen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/winderchen/this-is-my-first-grid-post/index.html</link>
             <guid isPermaLink="false">c7b420d2-76e5-4b15-892c-27bfd66cae21</guid>
             <pubDate>Sun, 07 Aug 2016 10:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple is taking a beating in India, the world's third largest smartphone market]]></title>
+            <description><![CDATA[<article><h1>Apple is taking a beating in India, the world's third largest smartphone market</h1><p>According to data from Strategy Analytics, Apple shipped just 800,000 smartphones in India in the second quarter of 2016. That's fairly typical of its recent performance in the world's third largest smartphone market, but still down compared to the same quarter last year, when it shipped 1.2 million handsets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a426ea7d14294cd321a8a3d7328478cc/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2Fu3iZdRqfSM-LkJl2WE83cjdWq_s%3D%2F0x167%3A2449x1545%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50302387%2FGettyImages-583774854.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/5/12385134/apple-india-android-market-share-97-percent</link>
+            <guid isPermaLink="false">6fc0b15c-9341-489e-b9f7-eaed81b5f373</guid>
+            <pubDate>Sun, 07 Aug 2016 11:00:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
