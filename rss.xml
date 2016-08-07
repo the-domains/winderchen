@@ -4,14 +4,21 @@
         <description><![CDATA[Winder's Grid]]></description>
         <link>https://thegrid.ai/winderchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 11:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 11:17:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/winderchen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fba66a-dd10-45be-9a3c-bf4b49a69c5a.jpg">]]></description>
+            <title><![CDATA[Some nice #prima(s).]]></title>
+            <description><![CDATA[<article><h1>Some nice #prima(s).</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56716cc0-f7f7-4479-8b96-352b23c3d4a8.jpg"></article>]]></description>
             <link>https://thegrid.ai/winderchen/this-is-my-first-grid-post/index.html</link>
             <guid isPermaLink="false">c7b420d2-76e5-4b15-892c-27bfd66cae21</guid>
-            <pubDate>Sun, 07 Aug 2016 10:57:07 GMT</pubDate>
+            <pubDate>Sun, 07 Aug 2016 11:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95b14216-d2cb-4601-8f6f-29ed250f8dc5.jpg">]]></description>
+            <link>https://thegrid.ai/winderchen/some-prismas/index.html</link>
+            <guid isPermaLink="false">5360a110-4bc6-4436-98d1-9186c1c45fab</guid>
+            <pubDate>Sun, 07 Aug 2016 11:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple is taking a beating in India, the world's third largest smartphone market]]></title>
